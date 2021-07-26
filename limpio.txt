@@ -3,5 +3,5 @@ Nuevo texto limpio
 
 cambio de master
 
-primer texto
->>>>>>> branch1
+
+
